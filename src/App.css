@@ -1,0 +1,106 @@
+.App-container {
+    margin-left: 150px;
+    margin-top: 20px;
+  }
+  .title {
+    width: 179px;
+    height: 76px;
+    top: 70px;
+    left: 227px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  .title strong {
+    font-family: Poppins, Arial;
+    font-size: 56px;
+    font-weight: 600;
+    line-height: 84px;
+    text-align: left;
+    color: #ffffff;
+  }
+  .title span {
+    font-family: Poppins, Arial;
+    font-size: 56px;
+    font-weight: 275;
+    line-height: 84px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: #ffffff;
+  }
+  .motivational-phrase {
+    font-family: Poppins, Arial;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #ffffff99;
+  }
+  .motivational-phrase strong {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+  }
+  .motivational-phrase span {
+    font-size: 16px;
+    font-weight: 275;
+    line-height: 24px;
+    text-align: left;
+  }
+  .task-complete {
+    background-color: #ffffff0d;
+    color: #ffffff;
+    border-radius: 10px;
+    width: 340px;
+    height: 115px;
+    top: 218px;
+    left: 947px;
+    margin-left: 739px;
+    margin-bottom: -129px;
+  }
+  .task-complete h1 {
+    font-family: Poppins, Arial;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 50px;
+    text-align: center;
+  }
+  .completed-tasks {
+    text-align: center;
+    font-family: Poppins, Arial;
+    font-size: 56px;
+    font-weight: 600;
+    line-height: 0px;
+  }
+  .chuckNorris-phrase {
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: 300;
+    line-height: 18px;
+    text-align: left;
+    color: #ffffff99;
+    margin-top: -10px;
+    width: 100%;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal;
+  }
+  .by-chuck {
+    font-family: Poppins, Arial;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    text-align: left;
+    color: #ffffff99;
+  }
+  footer {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.36px;
+    text-align: left;
+    color: #ffffff99;
+    margin-top: 49px;
+  }
+  
